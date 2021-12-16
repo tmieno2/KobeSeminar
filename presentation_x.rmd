@@ -393,7 +393,7 @@ $$y_{i,t} = \beta_0 + \sum_{s=1}^6 \sum_{k=1}^K \gamma_k f_k(WB_{i,t})\cdot SC_{
 
 + <span style="color:blue"> $y_{i,t}$ </span>: crop yield at county $i$ in year $t$
 + <span style="color:blue"> $WB_{i,t}$ </span>: water balance (precipitation - ET)
-+ <span style="color:blue"> $SC_{i,t,s}$ </span>: dummy variable that indicates which saturated thickness category the observation is in
++ <span style="color:blue"> $SC_{i,t,s}$ </span>: dummy variable that indicates which saturated thickness category county $i$ is in year $t$
 + <span style="color:blue"> $\alpha_i$ </span>: county fixed effect
 + <span style="color:blue"> $\theta_t$ </span>: year fixed effect
 + <span style="color:blue"> $\varepsilon_{i,t}$ </span>: error term
