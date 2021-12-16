@@ -229,7 +229,9 @@ The distance from the water to the surface increases, resulting in higher pumpin
 
 + **Definition**: the amount of water you can pump out from the aquifer for a given period of time (often measured in gpm: gallons per minute)
 
-+ **Why matters?**: if well yield is low, then farmers cannot keep up with daily water demand by crop, leading to loss in crop yield.
++ **Why matters?**: if well yield becomes low, then farmers cannot keep up with daily water demand of crop
+  * loss in crop yield from irrigated field.
+  * switch back to dryland production if well yield is too low
 
 --
 
