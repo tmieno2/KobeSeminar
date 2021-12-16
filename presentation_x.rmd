@@ -238,7 +238,7 @@ The distance from the water to the surface increases, resulting in higher pumpin
 ---
 class: middle
 
-# The Impact of Decline in Saturated Thickness
+# The Impact of a Decline in Saturated Thickness
 
 ## Consequences
 
@@ -251,7 +251,7 @@ class: middle
 
 # Knowledge Gap
 
-+ Numerous studies have examined the impact of weather on crop yield from <span style="color:red"> dryland </span> production, but not from <span style="color:blue"> irrigated </span> production. 
++ Numerous studies have examined the impact of weather on crop yield from <span style="color:red"> dryland </span> production, but not many on from <span style="color:blue"> irrigated </span> production. 
 + Previous studies on the impact of weather on groundwater-irrigated production did not recognize that the impact of weather can be substantially different based on the level of saturated thickness
 
 ---
