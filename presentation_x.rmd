@@ -630,8 +630,8 @@ class: middle
   * Master's in Agricultural and Consumer Economics: almost **everybody** is funded by the department
   * Master's in Economics: (almost) **nobody** is funded (almost everybody is self-funded)
 + Paths to getting Ag/Applied Econ Ph.D. in U.S. 
-  * Get Master's in U.S. with funding, and get Ph.D. in U.S. with funding (this is what I did) 
-  * Get Master's in Japan, and get Ph.D. in U.S. with funding (most people seem to follow this path)
+  * Get Master's in U.S. with funding, and get Ph.D. in U.S. with funding
+  * Get Master's in Japan, and get Ph.D. in U.S. with funding (more popular)
 
 --
 
@@ -895,14 +895,14 @@ This is actually a relatively easy skill to learn. You will see a dramatic impro
   * If you have time, also shadow (this helps improve fluency)
   * I spent about 3 hours to complete a single 20-minute Scrubs episode to do both dictation and shadowing 
   * You will start recognizing patterns (koubun), which can be very useful when you speak 
-+ Do not do the above every time. You will get tired of it. 
++ Do not do the above every time. You will get tired of it. Just relax and enjoy the show.
 
 ---
 class: middle
 
 # Writing and Speaking (Outputting)
 
-+ These are the skills that you can learn most effectively if you are in U.S.
++ These are skills that you can learn most effectively if you are in U.S.
 + I still rely on native speaker co-authors or professional editing service to finalize my journal manuscripts, and it will stay that way. 
 
 .content-box-green[**How to improve**]
@@ -917,23 +917,31 @@ class: middle
 ---
 class: middle
 
-# Pronunciation
+# Pronunciation and Accent
 
 
 .content-box-green[**How to improve**]
 
 + I used this book: [American Accent Training](https://www.amazon.com/American-Accent-Training-2nd-Book/dp/0764173693)
 + There are lots of Youtube channels that can teach you how to improve your pronunciation 
++ Do <span style="color:red"> NOT </span> afraid to make pronunciation and accent mistakes when you speak!
 
 --
 
-.content-box-red[**Key**]
+.content-box-red[**A Strategy (that worked for me)**]
 
 Say the word that you cannot pronounce well over and over again until you get it right. Record yourself to see if you sound natural. It is a try and error process.
 
-+ It is like learning how to use chopsticks, your brain gets trained to better associate your muscle movement and the brain image of your intended movement
-  * e.g., Clarabel, parallel (moving your tong from "l" position to "r" position or vice versa is very difficult for us)
++ It is like learning how to use chopsticks, your brain gets trained to better associate your muscle movement and the image of your intended movement in your brain
+  * e.g., Clarabel, parallel (moving your tong from "l" position to "r" position and vice versa is very difficult for us)
   * after trying to say the word so many times, you will be able to say it right eventually 
++ Where you put accent is very important: Alcatraz 
+
+--
+
+.content-box-green[**Aside**]
+
++ We are worse at "l" than "r". Compare your "silver" and native speakers' "silver." 
 
 ---
 class: middle
@@ -941,7 +949,7 @@ class: middle
 # Strategy for TOEFL
 
 + Typically the minimum score required is mid 80s. 
-+ The easiest way to go past the cut-off line is to do very well in reading, listening, and writing
++ The easiest way to go past the cut-off line is to do very well in reading, listening, and writing 
 + For example, this score line is good enough
   * reading (30): 24 $\Rightarrow$ 28
   * listening (30): 15 $\Rightarrow$ 25 
@@ -1003,6 +1011,7 @@ class: middle
 + You can do it as long as you spend time learning English! 
 + Wouldn't it be nice to believe so even if what I am saying wrong?
 + Don't make an excuse of you being too old to learn English. You are not. It is only you who is making it difficult for you to learn English. Get rid of the mental block.
+
 
 
 
