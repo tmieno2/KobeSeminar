@@ -623,7 +623,7 @@ class: middle
 
 --
 
-+ "I don't have money" is not the reason you should give up on getting a graduate degree in U.S. 
++ "I don't have money" is not a reason you should give up on getting a graduate degree in U.S. 
 + Majority of Ph.D students in Applied Econ Ph.D. programs in U.S. are funded by the department (no string attached)
 + Many <span style="color:blue"> Master's </span> program in Agricultural and Applied Economics offer financial aids to students with no string attached (This is not the case for many other fields). 
 + UIUC as an example 
@@ -652,7 +652,7 @@ class: middle
 They almost always come with
 
 + Salary (typically around $24,000 per year)
-+ Tuition waiver (no need to pay for courses you take)
++ Tuition waiver (no need to pay for classes you take)
 + Benefits (insurance, etc)
 
 --
@@ -777,7 +777,7 @@ class: middle
 
 .content-box-green[**Finance**]
 
-+ tuition waiver (you do not pay for courses you take)
++ tuition waiver (you do not pay for classes you take)
 + annual salary of about $22,000 (you do not have to pay back)
 
 .content-box-green[**Work Requirement**]
@@ -801,6 +801,10 @@ class: middle
 + I will train you in programming in R (along with economics and econometrics) to the level you can move your research independently in a Ph.D program later or you can get a data scientist job. 
 + You are not really interested in water resource economics?
   * If you eventually want to get Ph.D., consider this as purely a training period. Skills you learn here will help you in a Ph.D. program immensely later no matter what field of applied economics you work in.
+
+--
+
+If you are interested and want to know more, email me at <span style="color:blue"> taro.mieno.pf@gmail.com </span>.
 
 ---
 class: middle
